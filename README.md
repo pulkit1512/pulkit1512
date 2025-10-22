@@ -6,7 +6,6 @@
 
 🌱I'm diving deep into Machine Learning (ML) and Data Science (DS), actively learning core concepts, statistical modeling, and data manipulation techniques.
 📫 Reach me at pulkit151206@gmail.com
-🌐 Socials:
 
 
 
